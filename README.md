@@ -11,6 +11,7 @@ Customizable: Easy to expand and personalize based on your requirements.
 📂 Project Structure
 
 📁 project-folder/
+
 ├── 📁 assets/           # Images, icons, and other static resources
 ├── 📁 css/              # Stylesheets for the website
 ├── 📁 js/               # JavaScript files for interactivity
