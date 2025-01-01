@@ -13,10 +13,15 @@ Customizable: Easy to expand and personalize based on your requirements.
 📁 project-folder/
 
 ├── 📁 assets/           # Images, icons, and other static resources
+
 ├── 📁 css/              # Stylesheets for the website
+
 ├── 📁 js/               # JavaScript files for interactivity
+
 ├── 📄 index.html        # Main entry point of the website
+
 └── README.md            # Documentation file
+
 
 📸 Screenshots
 ![Screenshot 2025-01-01 151819](https://github.com/user-attachments/assets/f1526fa1-2109-4f71-b3c6-9c5611870d33)
