@@ -1,7 +1,7 @@
 E-Commerce Website
 A fully functional e-commerce website created using HTML, CSS, and JavaScript. This platform offers a seamless shopping experience with an easy-to-use, professional, and visually appealing interface.
 
-🛠 Features
+🛠 Features:
 Easy Navigation: User-friendly and intuitive layout.
 Product Categories: Browse products effortlessly across different categories.
 Responsive Design: Optimized for mobile, tablet, and desktop devices.
